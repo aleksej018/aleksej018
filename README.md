@@ -17,7 +17,7 @@
 # 📫 Connect with me
 <p align="left">
 <a href="https://instagram.com/__trailovic__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__trailovic__" height="30" width="40" /></a>
-<a href="mailto: aleksej.trailovic[at]gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="aleksej.trailovic[at]gmail.com" width="40" /></a>
+<a href="mailto: aleksej.trailovic@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="aleksej.trailovic[at]gmail.com" width="40" /></a>
 </p>
 
 
