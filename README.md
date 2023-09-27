@@ -9,6 +9,8 @@
 - 📫 How to reach me **aleksej.trailovic@gmail.com**
 
 - ⚡ Fun fact **I'm very tolerant person, and good teammate.**
+  
+# 📫 Connect with me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
