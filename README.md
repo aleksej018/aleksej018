@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **React, Node.js**
 
+- 💬 Ask me about **HTML, CSS, SASS, JavaScript and React**
+
 - 📫 How to reach me **aleksej.trailovic@gmail.com**
 
 - ⚡ Fun fact **I'm very tolerant person, and good teammate.**
