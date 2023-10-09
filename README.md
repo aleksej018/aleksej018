@@ -30,5 +30,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksej018&show_icons=true&theme=tokyonight&title_color=65adfb&locale=en&layout=compact" alt="aleksej018" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksej018&show_icons=true&theme=tokyonight&cache_seconds=1800&locale=en" alt="aleksej018" /></p>
