@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksej018&label=Profile%20views&color=1abaff&style=plastic" alt="aleksej018" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **aleksej.trailovic@gmail.com**
 
