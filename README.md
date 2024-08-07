@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksej018&label=Profile%20views&color=1abaff&style=plastic" alt="aleksej018" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 📚 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **aleksej.trailovic@gmail.com**
 
-- ⚡ Fun fact **I'm very tolerant person, and good teammate.**
+- 🎲 Fun fact **I'm very tolerant person, and good teammate.**
 <br>
 <br>
 <br>
