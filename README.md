@@ -13,10 +13,11 @@
 <br>
 <br>
 <br>
+<br>
 
 ###
 
-<h2 align="left" target="blank">💻Proficient with:</h2>
+<h2 align="left">💻Proficient with:</h2>
 
 ###
 
